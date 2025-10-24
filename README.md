@@ -18,7 +18,7 @@ This is an end-to-end business intelligence project focusing on **sales analytic
 **Business Intelligence & Analytics Platform:**
 * **Microsoft Power BI** 📊: The primary tool for dashboard creation, visualization, and incorporating predictive modeling features.
 * **Power Query (M Language):** Used extensively for data ingestion, cleaning, transformation, and shaping the raw transactional data.
-* **DAX (Data Analysis Expressions):** (Implied) Used for creating custom measures and calculated columns within Power BI’s data model.
+* **DAX (Data Analysis Expressions):** Used for creating custom measures and calculated columns within Power BI’s data model.
 
 **Methodology:**
 The project follows a **Four-Phase Methodology**:
@@ -57,7 +57,7 @@ The analysis uses the **GM Superstore Sales Dataset** (data range **2014–2017*
     git clone [https://github.com/](https://github.com/)<your_username>/Retail-Pulse-Sales-Analytics.git
     cd Retail-Pulse-Sales-Analytics
     ```
-2.  **Prerequisite:** Ensure you have **Power BI Desktop** installed (free).
+2.  **Prerequisite:** Ensure you have **Power BI Desktop** installed.
 3.  **Open Dashboard:** Navigate to the `dashboards/` folder and open the `Sales_Analytics_Dashboard.pbix` file.
 4.  **Interact:** Explore the two main sections (Sales Analytics and Forecasting) to interact with the slicers and visualizations.
 
