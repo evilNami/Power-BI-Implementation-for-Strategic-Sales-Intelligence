@@ -41,9 +41,9 @@ The analysis uses the **GM Superstore Sales Dataset** (data range **2014–2017*
 ├── data/ # Raw and cleaned sales transactional data (CSV/Excel)
 ├── dashboards/ # Power BI project and exported files
 │ └── Sales_Analytics_Dashboard.pbix # The core Power BI Project file
+│ └── Dashboard_Snapshot.pdf # Static PDF of the Power BI dashboard views.
 ├── documentation/ # Project reports and static dashboard copies
 │ └── Sales_Analytics_Report.pdf # The comprehensive project report.
-│ └── Dashboard_Snapshot.pdf # Static PDF of the Power BI dashboard views.
 ├── README.md # Project overview and guidelines (You are here!)
 └── requirements.txt # (Optional) Any specific dependencies
 ```
