@@ -54,8 +54,8 @@ The analysis uses the **GM Superstore Sales Dataset** (data range **2014–2017*
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/](https://github.com/)<your_username>/Retail-Pulse-Sales-Analytics.git
-    cd Retail-Pulse-Sales-Analytics
+    git clone [https://github.com/evilNami/Power-BI-Implementation-for-Strategic-Sales-Intelligence.git](https://github.com/evilNami/Power-BI-Implementation-for-Strategic-Sales-Intelligence.git)
+    cd Power-BI-Implementation-for-Strategic-Sales-Intelligence
     ```
 2.  **Prerequisite:** Ensure you have **Power BI Desktop** installed.
 3.  **Open Dashboard:** Navigate to the `dashboards/` folder and open the `Sales_Analytics_Dashboard.pbix` file.
